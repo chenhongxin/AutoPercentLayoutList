@@ -9,6 +9,11 @@
 #第一步：
 在你的项目的AndroidManifest中注明你的设计稿的尺寸。
 <meta-data android:name="design_width" android:value="768">
+</meta-data>
+<meta-data android:name="design_height" android:value="1280">
+</meta-data>
 #第二步：
 
 让你的Activity继承自AutoLayoutActivity.
+
+如果有什么疑问可以发送邮箱：545381409@qq.com向我提问问题，或者有新的想法可以跟我一起讨论
