@@ -12,6 +12,6 @@
 </meta-data>
 <meta-data android:name="design_height" android:value="1280">
 </meta-data>
-第二步：
+\n第二步：
 
 让你的Activity继承自AutoLayoutActivity.
