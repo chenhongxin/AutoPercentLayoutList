@@ -7,8 +7,8 @@
 #4.再也不用去跟UI MM去解释什么是dp了
 #如何使用该库呢？
 #第一步：
-在你的项目的AndroidManifest中注明你的设计稿的尺寸。
-#meta-data android:name="design_width" android:value="768">
+在你的项目的AndroidManifest中注明你的设计稿的尺寸。<br />
+meta-data android:name="design_width" android:value="768">
 /meta-data>
 meta-data android:name="design_height" android:value="1280">
 /meta-data>
