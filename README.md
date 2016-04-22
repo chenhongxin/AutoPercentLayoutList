@@ -8,12 +8,10 @@
 #如何使用该库呢？
 #第一步：
 在你的项目的AndroidManifest中注明你的设计稿的尺寸。
-<script type="text/javascript">
-<meta-data android:name="design_width" android:value="768">
-</meta-data>
-<meta-data android:name="design_height" android:value="1280">
-</meta-data>
-</script>
+meta-data android:name="design_width" android:value="768">
+/meta-data>
+meta-data android:name="design_height" android:value="1280">
+/meta-data>
 #第二步：
 
 让你的Activity继承自AutoLayoutActivity.
